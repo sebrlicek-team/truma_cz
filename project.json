@@ -1,0 +1,7 @@
+{
+  "slug": "truma",
+  "name": "Truma.cz",
+  "url": "https://truma.ccn-dev.cz",
+  "worker": "truma",
+  "stage": "preview"
+}

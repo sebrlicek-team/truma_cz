@@ -1,0 +1,360 @@
+{
+  "pages": [
+    {
+      "path": "/",
+      "title": "Topení, klimatizace a další vybavení Truma pro karavany"
+    },
+    {
+      "path": "/product-category/air-conditioning-systems/",
+      "title": "Klimatizace Truma – příjemné klima na cestách"
+    },
+    {
+      "path": "/product-category/air-conditioning-systems/aventa/",
+      "title": "Střešní klimatizace Truma Aventa – pohodlí a účinnost"
+    },
+    {
+      "path": "/product-category/air-conditioning-systems/saphir/",
+      "title": "Klimatizace Truma Saphir – tiché a výkonné"
+    },
+    {
+      "path": "/product-category/gas-supply/",
+      "title": "Plynové systémy Truma – bezpečně a pohodlně na cestách"
+    },
+    {
+      "path": "/product-category/gas-supply/gas-measurement-devices/",
+      "title": "Měřiče hladiny plynu Truma"
+    },
+    {
+      "path": "/product-category/gas-supply/gas-pressure-regulators/",
+      "title": "Regulátory Truma pro bezpečné zásobování plynem"
+    },
+    {
+      "path": "/product-category/gas-supply/gas-supply-accessories/",
+      "title": "Příslušenství plynových systémů pro obytné vozy a karavany"
+    },
+    {
+      "path": "/product-category/heating-systems/",
+      "title": "Účinné topení Truma – pohodlí a spolehlivost"
+    },
+    {
+      "path": "/product-category/heating-systems/combi/",
+      "title": "Kombinovaná topení Truma Combi – teplo a voda v jednom"
+    },
+    {
+      "path": "/product-category/heating-systems/s-heaters/",
+      "title": "Topení Truma S – spolehlivé teplo na cestách"
+    },
+    {
+      "path": "/product-category/heating-systems/varioheat-heaters/",
+      "title": "Kompaktní topení Truma – úspora místa a účinný provoz"
+    },
+    {
+      "path": "/product-category/inet-x/",
+      "title": "Systém Truma iNet X – propojené ovládání na cestách"
+    },
+    {
+      "path": "/product-category/manoeuvring-systems/",
+      "title": "Pojezdy Truma – snadné a přesné manévrování"
+    },
+    {
+      "path": "/product-category/manoeuvring-systems/caravan-movers-single-axle/",
+      "title": "Pojezdy pro jednonápravové karavany – přesné manévrování"
+    },
+    {
+      "path": "/product-category/manoeuvring-systems/caravan-movers-twin-axle/",
+      "title": "Pojezdy Truma pro dvounápravové karavany"
+    },
+    {
+      "path": "/product-category/miscellaneous/",
+      "title": "Ostatní produkty – Truma"
+    },
+    {
+      "path": "/product-category/operating-systems/",
+      "title": "Ovládací systémy Truma pro pohodlné cestování"
+    },
+    {
+      "path": "/product-category/operating-systems/cp-plus/",
+      "title": "Ovládací panel Truma CP plus"
+    },
+    {
+      "path": "/product-category/truma-cooler/",
+      "title": "Přenosné chladicí a mrazicí boxy Truma"
+    },
+    {
+      "path": "/product-category/truma-cooler/truma-cooler-dual-zone/",
+      "title": "Truma Cooler se dvěma teplotními zónami"
+    },
+    {
+      "path": "/product-category/truma-cooler/truma-cooler-single-zone/",
+      "title": "Truma Cooler s jednou teplotní zónou"
+    },
+    {
+      "path": "/product-category/water-systems/",
+      "title": "Ohřev vody Truma pro pohodlí na cestách"
+    },
+    {
+      "path": "/product-category/water-systems/boiler-gas-electro/",
+      "title": "Plynový / elektrický bojler – flexibilní ohřev vody"
+    },
+    {
+      "path": "/product-category/water-systems/electric-water-heater/",
+      "title": "Elektrický bojler Truma – teplá voda na cestách"
+    },
+    {
+      "path": "/product-category/water-systems/therme/",
+      "title": "Ohřívač vody Therme – Truma"
+    },
+    {
+      "path": "/products/",
+      "title": "Produkty – Truma"
+    },
+    {
+      "path": "/about-truma/",
+      "title": "O společnosti Truma"
+    },
+    {
+      "path": "/dealer-search/",
+      "title": "Vyhledávání prodejců Truma"
+    },
+    {
+      "path": "/products/air-conditioning-systems/aventa/aventa-comfort-2nd-generation/",
+      "title": "Aventa comfort (2. generace)"
+    },
+    {
+      "path": "/products/air-conditioning-systems/aventa/aventa-comfort/",
+      "title": "Aventa comfort"
+    },
+    {
+      "path": "/products/air-conditioning-systems/aventa/aventa-compact-2-generation/",
+      "title": "Aventa compact (2. generace)"
+    },
+    {
+      "path": "/products/air-conditioning-systems/aventa/aventa-compact-plus-2-generation/",
+      "title": "Aventa compact plus (2. generace)"
+    },
+    {
+      "path": "/products/air-conditioning-systems/aventa/aventa-compact-plus/",
+      "title": "Aventa compact plus"
+    },
+    {
+      "path": "/products/air-conditioning-systems/aventa/aventa-compact/",
+      "title": "Aventa compact"
+    },
+    {
+      "path": "/products/air-conditioning-systems/saphir/saphir-comfort-rc/",
+      "title": "Saphir comfort RC"
+    },
+    {
+      "path": "/products/air-conditioning-systems/saphir/saphir-compact/",
+      "title": "Saphir compact"
+    },
+    {
+      "path": "/products/gas-supply/gas-measurement-devices/truma-levelcheck/",
+      "title": "Truma LevelCheck"
+    },
+    {
+      "path": "/products/gas-supply/gas-measurement-devices/truma-levelcontrol/",
+      "title": "Truma LevelControl"
+    },
+    {
+      "path": "/products/gas-supply/gas-pressure-regulators/duocontrol-cs/",
+      "title": "DuoControl CS"
+    },
+    {
+      "path": "/products/gas-supply/gas-pressure-regulators/monocontrol-cs-r/",
+      "title": "Monocontrol CS R"
+    },
+    {
+      "path": "/products/gas-supply/gas-pressure-regulators/monocontrol-cs-t/",
+      "title": "MonoControl CS T"
+    },
+    {
+      "path": "/products/gas-supply/gas-pressure-regulators/monocontrol-cs/",
+      "title": "MonoControl CS"
+    },
+    {
+      "path": "/products/gas-supply/gas-supply-accessories/high-pressure-hoses-with-hrp/",
+      "title": "Vysokotlaké hadice s ochranou proti prasknutí"
+    },
+    {
+      "path": "/products/gas-supply/gas-supply-accessories/truma-gasfilter/",
+      "title": "Plynový filtr Truma"
+    },
+    {
+      "path": "/products/heating-systems/combi/combi-4-e/",
+      "title": "Combi 4 E"
+    },
+    {
+      "path": "/products/heating-systems/combi/combi-6-e/",
+      "title": "Combi 6 E"
+    },
+    {
+      "path": "/products/heating-systems/combi/combi-6/",
+      "title": "Combi 6"
+    },
+    {
+      "path": "/products/heating-systems/combi/combi-d-4-e-next-generation/",
+      "title": "Combi D 4 E (nová generace)"
+    },
+    {
+      "path": "/products/heating-systems/combi/combi-d-4-next-generation/",
+      "title": "Combi D 4 (nová generace)"
+    },
+    {
+      "path": "/products/heating-systems/combi/combi-d-6-e-next-generation/",
+      "title": "Combi D 6 E (nová generace)"
+    },
+    {
+      "path": "/products/heating-systems/combi/combi-d-6-e/",
+      "title": "Combi D 6 E"
+    },
+    {
+      "path": "/products/heating-systems/combi/combi-d-6-next-generation/",
+      "title": "Combi D 6 (nová generace)"
+    },
+    {
+      "path": "/products/heating-systems/combi/combi-d-6/",
+      "title": "Combi D 6"
+    },
+    {
+      "path": "/products/heating-systems/combi/combineo-4-e/",
+      "title": "CombiNeo 4 E"
+    },
+    {
+      "path": "/products/heating-systems/combi/combineo-6-e/",
+      "title": "CombiNeo 6 E"
+    },
+    {
+      "path": "/products/heating-systems/combi/truma-condensate-spout/",
+      "title": "Odvod kondenzátu Truma"
+    },
+    {
+      "path": "/products/heating-systems/s-heaters/truma-s-2200/",
+      "title": "Truma S 2200"
+    },
+    {
+      "path": "/products/heating-systems/s-heaters/truma-s-3004/",
+      "title": "Truma S 3004"
+    },
+    {
+      "path": "/products/heating-systems/s-heaters/truma-s5004/",
+      "title": "Truma S 5004"
+    },
+    {
+      "path": "/products/heating-systems/s-heaters/truma-ultraheat/",
+      "title": "Truma Ultraheat"
+    },
+    {
+      "path": "/products/heating-systems/varioheat-heaters/eezy/",
+      "title": "Eezy"
+    },
+    {
+      "path": "/products/heating-systems/varioheat-heaters/truma-e-kit/",
+      "title": "Truma E-Kit"
+    },
+    {
+      "path": "/products/heating-systems/varioheat-heaters/truma-varioheat-comfort/",
+      "title": "Truma VarioHeat comfort"
+    },
+    {
+      "path": "/products/heating-systems/varioheat-heaters/truma-varioheat-eco/",
+      "title": "Truma VarioHeat eco"
+    },
+    {
+      "path": "/products/manoeuvring-systems/caravan-movers-single-axle/mover-smart-a/",
+      "title": "Mover smart A"
+    },
+    {
+      "path": "/products/manoeuvring-systems/caravan-movers-single-axle/mover-smart-m/",
+      "title": "Mover smart M"
+    },
+    {
+      "path": "/products/manoeuvring-systems/caravan-movers-single-axle/mover-xt-l/",
+      "title": "Mover XT L"
+    },
+    {
+      "path": "/products/manoeuvring-systems/caravan-movers-single-axle/mover-xt/",
+      "title": "Mover XT"
+    },
+    {
+      "path": "/products/manoeuvring-systems/caravan-movers-twin-axle/mover-smart-a4/",
+      "title": "Mover smart A4"
+    },
+    {
+      "path": "/products/manoeuvring-systems/caravan-movers-twin-axle/mover-xt2/",
+      "title": "Mover XT2"
+    },
+    {
+      "path": "/products/manoeuvring-systems/caravan-movers-twin-axle/mover-xt4/",
+      "title": "Mover XT4"
+    },
+    {
+      "path": "/products/operating-systems/cp-plus/truma-cp-plus/",
+      "title": "Truma CP plus"
+    },
+    {
+      "path": "/products/operating-systems/inet-x-panel-2/",
+      "title": "iNet X Panel 2"
+    },
+    {
+      "path": "/products/operating-systems/inet-x-pro-panel-2/",
+      "title": "iNet X Pro Panel 2"
+    },
+    {
+      "path": "/products/operating-systems/rvcore-12v/",
+      "title": "RVcore 12 V"
+    },
+    {
+      "path": "/products/operating-systems/truma-inet-x-connect/",
+      "title": "iNet X Connect"
+    },
+    {
+      "path": "/products/operating-systems/truma-inet-x-panel/",
+      "title": "iNet X Panel"
+    },
+    {
+      "path": "/products/operating-systems/truma-inet-x-pro-panel/",
+      "title": "iNet X Pro Panel"
+    },
+    {
+      "path": "/products/page/2/",
+      "title": "Produkty – strana 2"
+    },
+    {
+      "path": "/products/page/3/",
+      "title": "Produkty – strana 3"
+    },
+    {
+      "path": "/products/page/4/",
+      "title": "Produkty – strana 4"
+    },
+    {
+      "path": "/products/page/5/",
+      "title": "Produkty – strana 5"
+    },
+    {
+      "path": "/products/truma-cooler/truma-cooler-dual-zone/truma-cooler-dual-zone/",
+      "title": "Truma Cooler – dvě zóny"
+    },
+    {
+      "path": "/products/truma-cooler/truma-cooler-single-zone/truma-cooler-compressor-cool-box/",
+      "title": "Truma Cooler – jedna zóna"
+    },
+    {
+      "path": "/products/water-systems/boiler-gas-electro/boiler-gas-bgf/",
+      "title": "Boiler Gas BGF"
+    },
+    {
+      "path": "/products/water-systems/boiler-gas-electro/boiler-gas-boiler-gas-elektro/",
+      "title": "Plynový a plynový / elektrický bojler"
+    },
+    {
+      "path": "/products/water-systems/electric-water-heater/truma-electric-water-heater-boiler/",
+      "title": "Elektrický ohřívač vody Truma"
+    },
+    {
+      "path": "/products/water-systems/therme/therme/",
+      "title": "Therme"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Truma.cz",
+  "tagline": "Modulární základ pro klientské weby",
+  "url": "https://truma.ccn-dev.cz",
+  "indexable": false,
+  "theme": {
+    "accent": "#a52c2c",
+    "ink": "#23332d",
+    "paper": "#f6f3ec",
+    "serif": false
+  },
+  "navigation": [
+    {
+      "label": "Nabídka",
+      "href": "/#nabidka"
+    },
+    {
+      "label": "Příběh",
+      "href": "/#pribeh"
+    },
+    {
+      "label": "Kontakt",
+      "href": "/#kontakt"
+    }
+  ],
+  "footer": "Vývojová ukázka CCN. Ilustrační obsah, žádné automatické odesílání.",
+  "footerLinks": [],
+  "pages": [],
+  "nav": [
+    {
+      "label": "Produkty",
+      "href": "/products/"
+    },
+    {
+      "label": "O společnosti Truma",
+      "href": "/about-truma/"
+    },
+    {
+      "label": "Najít prodejce",
+      "href": "/dealer-search/"
+    }
+  ],
+  "implementation": "src/truma/pages + scripts/build-truma.mjs",
+  "contact": {}
+}
